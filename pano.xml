@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20966" hassounds="1" appversion="7.1.6" start="node30">
+  <panorama id="node30" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="53.7001" pan="-6.98196" projection="4" tilt="-45.9897"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_out" heading="0" latitude="38.369602" customnodeid="" description="" copyright="" source="" altitude="911.16" nodeid="node30" datetime="21.10.2022 11:15" title="Sehzade_Havadan" author="" longitude="34.020043"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-0.0399953" url="{node27}" target="" description="" skinid="ht_node" tilt="-19.31" distance="19.965" title=""/>
+      <hotspot id="Point02" pan="-45.69" url="{node28}" target="" description="" skinid="ht_node" tilt="-15.45" distance="30.3498" title=""/>
+      <hotspot id="Point03" pan="-304.36" url="{node29}" target="" description="" skinid="ht_node" tilt="-15.31" distance="25.9695" title=""/>
+      <polyhotspot id="Poly01" url="{node27}" target="" title="Şehzade Restoran" description="">
+        <polystring>-351.47/-54.33|-347.01/-55.36|-346.93/-56.83|-2.83/-65.03|-15.5/-64.18|-26.85/-53.44|-25.94/-51.94|-21.23/-50.82|-8.54/-60.7|-6.01/-60.81|-6.03/-60.85</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="52.9738" pan="4.03691" projection="4" tilt="-1.92465"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_out" heading="0" latitude="38.369492" customnodeid="" description="" copyright="" source="" altitude="860.46" nodeid="node27" datetime="21.10.2022 11:07" title="Sehzade_OnGiris" author="" longitude="34.020224"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-307.39" url="{node29}" target="" description="" skinid="ht_node" tilt="-1.1" distance="14.3847" title=""/>
+      <hotspot id="Point02" pan="-48.4" url="{node28}" target="" description="" skinid="ht_node" tilt="-0.73" distance="14.7809" title=""/>
+      <hotspot id="Point03" pan="-1.98" url="{node26}" skinid="ht_node" tilt="-4.73" target="" title="" description=""/>
+      <hotspot id="Point04" pan="0.35" url="{node30}" target="" description="" skinid="ht_node" tilt="69.56" distance="19.965" title="Sehzade_Havadan"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-319.63/3.71|-332.31/7.53|-16.78/8.06|-34.02/2.8|-33.99/-5.53|-15.89/-16.6|-332.79/-15.25|-319.41/-7.14</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-342.110" rotx="0.000" roty="21.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="17.600" popbackmode="0" tilt="-4.690" handcursor="1" width="679" clickmode="1">
+        <source url="media/sabah_kahvalti.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="103.732" pan="7.79201" projection="4" tilt="-8.67383"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_out" heading="0" latitude="38.369360" customnodeid="" description="" copyright="" source="" altitude="861.26" nodeid="node28" datetime="21.10.2022 11:10" title="Sehzade_YanTaraf" author="" longitude="34.020204"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-313.69" url="{node27}" target="" description="" skinid="ht_node" tilt="1.45" distance="14.7809" title=""/>
+      <hotspot id="Point02" pan="-6.84" url="{node30}" target="" description="" skinid="ht_node" tilt="66.44" distance="30.3498" title="Sehzade_Havadan"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-325.11/1.1|-41.91/2.03|-42.2/-12.96|-323.98/-13.71</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-332.660" rotx="-6.000" roty="30.000" rotz="6.000" stretch="1.000" height="867" hidepinned="0" popoutscaling="100" fov="13.800" popbackmode="0" tilt="-6.860" handcursor="1" width="853" clickmode="1">
+        <source url="media/cag_kebabi.jpg"/>
+      </image>
+      <image id="Element02" pan="-353.720" rotx="0.000" roty="12.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="16.450" popbackmode="0" tilt="-7.140" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element03" pan="-16.310" rotx="0.000" roty="-21.000" rotz="-4.000" stretch="1.000" height="851" hidepinned="0" popoutscaling="100" fov="12.980" popbackmode="0" tilt="-7.060" handcursor="1" width="683" clickmode="1">
+        <source url="media/sirdan.jpg"/>
+      </image>
+      <image id="Element04" pan="-33.290" rotx="-10.000" roty="-26.000" rotz="-6.000" stretch="1.000" height="851" hidepinned="0" popoutscaling="100" fov="13.970" popbackmode="0" tilt="-6.540" handcursor="1" width="849" clickmode="1">
+        <source url="media/izgara1.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="101.364" pan="-7.40218" projection="4" tilt="-6.71564"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_out" heading="0" latitude="38.369584" customnodeid="" description="" copyright="" source="" altitude="860.56" nodeid="node29" datetime="21.10.2022 11:12" title="Sehzade_YanGiris" author="" longitude="34.020340"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-350.75" url="{node2}" skinid="ht_node" tilt="-4" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-78.12" url="{node27}" target="" description="" skinid="ht_node" tilt="3.62" distance="14.3847" title=""/>
+      <hotspot id="Point03" pan="-335.72" url="{node30}" target="" description="" skinid="ht_node" tilt="69.11" distance="25.9695" title="Sehzade_Havadan"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-52.65/2.89|-51.26/5.28|-317.82/4.91|-317.59/-15.17|-50.6/-14.53|-52.63/-8.65</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-326.460" rotx="-10.000" roty="26.000" rotz="7.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="15.790" popbackmode="0" tilt="-6.790" handcursor="1" width="679" clickmode="1">
+        <source url="media/sabah_kahvalti.jpg"/>
+      </image>
+      <image id="Element02" pan="-16.680" rotx="0.000" roty="-12.000" rotz="-2.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="21.240" popbackmode="0" tilt="-7.730" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element03" pan="-41.580" rotx="-5.000" roty="-30.000" rotz="-5.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="16.780" popbackmode="0" tilt="-5.470" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_izgara.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="71.49" pan="178.9" projection="4" tilt="-8.73"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node1" datetime="22.10.2022 09:20" title="s1" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-188.73" url="{node2}" skinid="ht_node" tilt="-3.7" target="$fwd" title="" description=""/>
+      <hotspot id="Point02" pan="-118.45" url="{node23}" skinid="ht_node" tilt="-1.05" target="$fwd" title="" description=""/>
+      <hotspot id="Point03" pan="-248.98" url="{node29}" skinid="ht_node" tilt="-3.05" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-176.97/2.75|-194.21/3.85|-200.72/4.7|-205.26/7.03|-215.58/12.8|-252.37/24.99|-252.58/-19.93|-216.08/-9.98|-205.71/-5.75|-201.29/-4.4|-194.24/-3.42|-185.83/-3.42|-185.83/-3.42|-176.97/-3.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-252.5/25.08|-327.51/21.71|-327.32/-14.27|-327.32/-14.27|-327.26/-15.76|-252.73/-19.96</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-60.8/18.08|-327.62/21.41|-327.27/-15.83|-60.01/-13.96</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-60.94/18.14|-95.38/22.84|-95.06/-16.79|-60.23/-13.82</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-164.26/2.77|-171.09/2.75|-171.26/-3.77|-164.33/-3.77</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-133.06/-10.36|-134.81/-10.22|-134.52/-12.74|-133/-12.62</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-163.12/-9.39|-163.91/-9.19|-164.24/-10.87|-163.38/-11.13</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-252.33/-17.28|-252.57/-21.6|-255.94/-22.11|-255.97/-17.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-307.71/-18.05|-311.18/-17.6|-311.22/-21.25|-307.73/-21.77</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="" description="">
+        <polystring>-40.19/-17.02|-43.25/-16.59|-43.13/-20.03|-40.24/-20.56</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-181.180" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="857" hidepinned="0" popoutscaling="100" fov="6.360" popbackmode="0" tilt="-0.370" handcursor="1" width="853" clickmode="1">
+        <source url="media/acilis.jpg"/>
+      </image>
+      <image id="Element02" pan="-190.170" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="835" hidepinned="0" popoutscaling="100" fov="5.540" popbackmode="0" tilt="0.230" handcursor="1" width="683" clickmode="1">
+        <source url="media/adana.jpg"/>
+      </image>
+      <image id="Element03" pan="-200.690" rotx="0.000" roty="49.000" rotz="0.000" stretch="1.000" height="856" hidepinned="0" popoutscaling="100" fov="8.020" popbackmode="0" tilt="0.230" handcursor="1" width="853" clickmode="1">
+        <source url="media/adana_urfa.jpg"/>
+      </image>
+      <image id="Element04" pan="-212.270" rotx="0.000" roty="58.000" rotz="0.000" stretch="1.000" height="846" hidepinned="0" popoutscaling="100" fov="14.790" popbackmode="0" tilt="0.360" handcursor="1" width="849" clickmode="1">
+        <source url="media/adana_urfa_konya.jpg"/>
+      </image>
+      <image id="Element05" pan="-231.990" rotx="-3.000" roty="39.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="1.690" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element06" pan="-283.790" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="867" hidepinned="0" popoutscaling="100" fov="40.080" popbackmode="0" tilt="3.480" handcursor="1" width="853" clickmode="1">
+        <source url="media/cag_kebabi.jpg"/>
+      </image>
+      <image id="Element07" pan="-20.630" rotx="0.000" roty="-9.000" rotz="0.000" stretch="1.000" height="842" hidepinned="0" popoutscaling="100" fov="36.940" popbackmode="0" tilt="5.740" handcursor="1" width="737" clickmode="1">
+        <source url="media/cig_kofte.jpg"/>
+      </image>
+      <image id="Element08" pan="-167.590" rotx="-11.000" roty="0.000" rotz="0.000" stretch="1.000" height="954" hidepinned="0" popoutscaling="100" fov="5.210" popbackmode="0" tilt="-0.580" handcursor="1" width="853" clickmode="1">
+        <source url="media/cig_kofte2.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="-3.12591" projection="4" tilt="-8.63158"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node2" datetime="22.10.2022 09:21" title="s2" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-4.02" url="{node1}" skinid="ht_node" tilt="-1.66" target="$fwd" title="" description=""/>
+      <hotspot id="Point02" pan="-96.63" url="{node23}" skinid="ht_node" tilt="-1.77" target="$fwd" title="" description=""/>
+      <hotspot id="Point03" pan="-186.76" url="{node3}" skinid="ht_node" tilt="-4.8" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-285.63" url="{node29}" skinid="ht_node" tilt="-3.31" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-324.67/20.26|-346.9/11.01|-32.71/10.6|-42.96/13.37|-42.67/-9.83|-33.27/-7.63|-346.25/-7.53|-324.67/-13.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-252.04/-18.86|-324.61/-13.44|-324.76/20.29|-250.7/24.18</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-250.44/24.26|-203.03/6.64|-192.46/5.68|-192.74/-5.76|-203.52/-5.93|-252.09/-18.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-140.92/2.27|-160.16/3.3|-160.17/-4.55|-140.98/-3.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-168.45/3.59|-181.63/4.19|-192.44/5.65|-192.72/-5.81|-181.71/-4.9|-168.5/-4.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="{node24}" target="" title="Çocuk Oyun Alanı" description="">
+        <polystring>-62.07/7.62|-72.22/6.22|-71.66/-6.3|-68.43/-8.02|-71.44/-8.99|-73.57/-9.62|-64.68/-14.22|-61.72/-13.51</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="{node16}" target="" title="Lavabo" description="">
+        <polystring>-90.34/3.68|-93.85/3.65|-93.43/-4.36|-91.59/-4.13|-91.53/-4.19|-90.01/-4.27|-90.09/-1.89</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="{node20}" target="" title="Çay Üretim Yeri" description="">
+        <polystring>-96/4.05|-101.3/4.21|-101.24/-3.76|-101/-3.68|-95.68/-3.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-325.73/-12.88|-327.31/-12.32|-327.39/-16.13|-325.8/-16.62</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-19.51/-7.38|-21.01/-7.2|-21/-9.36|-19.37/-9.44</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-342.68/-8.39|-342.6/-10.04|-343.82/-10.47|-343.95/-7.98</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-82.47/-11.19|-82.46/-13.15|-84.74/-13.55|-84.62/-11.22</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-125.52/-16.94|-128.34/-16.42|-128.49/-19.51|-125.53/-19.92</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-235.26/-14.58|-237.32/-14.89|-237.33/-18.85|-235.37/-18.31</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-214.78/-9.89|-214.55/-11.91|-215.69/-12.28|-215.67/-9.95</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-38.410" rotx="0.000" roty="53.000" rotz="0.000" stretch="1.000" height="893" hidepinned="0" popoutscaling="100" fov="11.320" popbackmode="0" tilt="1.930" handcursor="1" width="859" clickmode="1">
+        <source url="media/corba_cesitleri.jpg"/>
+      </image>
+      <image id="Element02" pan="-13.600" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="17.770" popbackmode="0" tilt="1.870" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element03" pan="-336.710" rotx="0.000" roty="-48.000" rotz="0.000" stretch="1.000" height="893" hidepinned="0" popoutscaling="100" fov="18.260" popbackmode="0" tilt="1.930" handcursor="1" width="859" clickmode="1">
+        <source url="media/corba_cesitleri.jpg"/>
+      </image>
+      <image id="Element04" pan="-287.550" rotx="0.000" roty="-11.000" rotz="0.000" stretch="1.000" height="853" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="2.110" handcursor="1" width="853" clickmode="1">
+        <source url="media/cipura.jpg"/>
+      </image>
+      <image id="Element05" pan="-226.750" rotx="0.000" roty="37.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="21.900" popbackmode="0" tilt="1.920" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element06" pan="-208.410" rotx="0.000" roty="62.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="12.810" popbackmode="0" tilt="0.130" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element07" pan="-174.830" rotx="0.000" roty="6.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="7.020" popbackmode="0" tilt="-0.700" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_izgara.jpg"/>
+      </image>
+      <image id="Element08" pan="-191.820" rotx="0.000" roty="8.000" rotz="0.000" stretch="1.000" height="939" hidepinned="0" popoutscaling="100" fov="8.840" popbackmode="0" tilt="-0.190" handcursor="0" width="853" clickmode="1">
+        <source url="media/corba1.jpg"/>
+      </image>
+      <image id="Element09" pan="-149.500" rotx="0.000" roty="29.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="6.530" popbackmode="0" tilt="-0.890" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="6.67" projection="4" tilt="-1.83"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node3" datetime="22.10.2022 09:23" title="s6" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-177.11" url="{node4}" skinid="ht_node" tilt="-4.85" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-354.26" url="{node2}" skinid="ht_node" tilt="-0.960002" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-87.93" url="{node11}" skinid="ht_node" tilt="-2.52" target="" title="" description=""/>
+      <hotspot customimage="media/sabah_kahvalti.jpg" id="Point04" distance3D="560.073" pan="-105.71" url="OP32-X8s8fo" target="" description="" fov="10" skinid="ht_video_youtube" tilt="-5.09" customimagewidth="98" title="Sabah Kahvaltısı" customimageheight="131" use3D="0"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-314.69/17.44|-343.65/7.45|-12.2/7.05|-14.71/7.15|-14.65/-5.24|-12.11/-4.24|-343.46/-4.1|-314.24/-10.5</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-314.69/17.63|-314.1/-10.57|-222.12/-12.3|-221.96/17.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-143.98/5.17|-171.5/5.98|-189.19/9.88|-209.09/12.7|-222.03/17.02|-222.11/-12.27|-208.48/-9.37|-190.09/-8.61|-170.64/-7.09|-143.99/-5.66</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-114.57/2.56|-123.53/3.37|-123.43/-4.02|-123.45/-4.74|-114.28/-2.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Kasa" description="">
+        <polystring>-122.35/-15.35|-140.82/-21.94|-145.61/-22.83|-150.14/-22.85|-154.37/-22.42|-159.4/-21.31|-162.94/-19.85|-164.46/-18.25|-169.98/-13.38|-166.47/-11.86|-155.31/-11.39|-144.99/-9.91|-129.36/-12.69|-122.01/-14.84</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-193.91/-8.83|-193.86/-11.04|-195.62/-11.21|-195.72/-8.89</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-221.37/-12.33|-223.14/-12.6|-223.08/-15.38|-221.14/-15.22</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-260.8/-16.87|-264.23/-16.87|-264.46/-20.27|-260.77/-20.32</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-306.42/-12.92|-308.64/-12.71|-308.75/-15.74|-306.19/-16.1</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-336.71/-5.84|-336.8/-7.43|-337.48/-7.23|-337.43/-5.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-342.03/-4.61|-342.03/-5.33|-342.55/-5.38|-342.49/-4.25</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-3.32/-4.31|-3.23/-5.33|-4.28/-5.41|-4.27/-4.35</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-36.6/-12.79|-38.23/-13.14|-38.04/-15.9|-36.4/-15.66</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" bordercolor="0x0000ff" backgroundcolor="0x00ffff" backgroundalpha="0.25098" description="" borderalpha="1" title="Papağan Gomez">
+        <polystring>-51.77/-6.86|-51.82/-5.8|-52.33/-3.78|-52.88/-2.82|-54.65/-1.68|-55.77/-1.69|-57.88/-1.66|-60.32/-1.43|-61.66/-1.38|-62.73/-2.19|-63.61/-3.26|-64.45/-4.53|-64.73/-5.86|-64.82/-6.73|-59.74/-7.99</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-77.6/4.53|-98.98/4.5|-99.02/-2.8|-99.09/-2.83|-77.51/-2.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-25.71/4.99|-33.75/6.28|-33.44/-7.44|-25.76/-7.54</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-162.11/-6.21|-162.04/-7.38|-163.05/-7.43|-163.1/-6.11</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-357.650" rotx="0.000" roty="14.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="10.000" popbackmode="0" tilt="1.520" handcursor="0" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element02" pan="-340.010" rotx="0.000" roty="-60.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="10.830" popbackmode="0" tilt="1.820" handcursor="1" width="848" clickmode="1">
+        <source url="media/corba_cesitleri3.jpg"/>
+      </image>
+      <image id="Element03" pan="-324.570" rotx="0.000" roty="-42.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="20.410" popbackmode="0" tilt="3.160" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+      <image id="Element04" pan="-284.680" rotx="0.000" roty="-14.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="4.330" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+      <image id="Element05" pan="-224.540" rotx="0.000" roty="44.000" rotz="-3.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="24.380" popbackmode="0" tilt="2.050" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element06" pan="-188.240" rotx="0.000" roty="26.000" rotz="0.000" stretch="1.000" height="893" hidepinned="0" popoutscaling="100" fov="13.310" popbackmode="0" tilt="-0.270" handcursor="1" width="859" clickmode="1">
+        <source url="media/corba_cesitleri.jpg"/>
+      </image>
+      <image id="Element07" pan="-156.490" rotx="0.000" roty="16.000" rotz="1.000" stretch="1.000" height="851" hidepinned="0" popoutscaling="100" fov="10.500" popbackmode="0" tilt="-0.610" handcursor="1" width="849" clickmode="1">
+        <source url="media/izgara1.jpg"/>
+      </image>
+      <image id="Element08" pan="-119.070" rotx="0.000" roty="57.000" rotz="0.000" stretch="1.000" height="856" hidepinned="0" popoutscaling="100" fov="5.790" popbackmode="0" tilt="-0.660" handcursor="1" width="858" clickmode="1">
+        <source url="media/lahmacun.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="-121.36" projection="4" tilt="-16.81"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node4" datetime="22.10.2022 09:25" title="s5" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-186.09" url="{node26}" skinid="ht_node" tilt="-2.13" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-344.9" url="{node3}" skinid="ht_node" tilt="0.519999" target="" title="" description=""/>
+      <hotspot customimage="media/sabah_kahvalti.jpg" id="Point03" distance3D="742.953" pan="-87.8" url="OP32-X8s8fo" target="" description="" fov="10" skinid="ht_video_youtube" tilt="-13.45" customimagewidth="130" title="Sabah Kahvaltısı" customimageheight="175" use3D="0"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-110.58/3.74|-181.49/14.37|-181.18/-11.78|-110.52/-3.24</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-181.52/14.35|-181.17/-11.79|-233.43/-17.05|-276.23/-12.45|-275.63/21.52|-236.64/24.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-275.62/21.43|-279.85/20.39|-353.34/4.99|-353/-3.1|-281.26/-11.86|-276.29/-12.32</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-353.34/5.03|-12.84/5.26|-12.85/-2.98|-353.02/-3.13</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Yemek Salonu - Aile Yeri" description="">
+        <polystring>-69.18/18.11|-82.79/9.83|-82.75/-7.43|-69.44/-12.04</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Kasa" description="">
+        <polystring>-35.71/-11.16|-6.93/-12.97|-6.57/-11|-1.13/-10.61|-0.19/-11.97|-0.01/-13.74|-354.77/-21.86|-357.09/-22.09|-356.39/-23.86|-357.36/-28.65|-1.05/-31.06|-3.32/-32.4|-9.87/-33.98|-21/-35.45|-28.75/-33.95|-38.83/-32.06|-48.27/-29.5|-58.53/-25.77|-57.81/-18.45|-57.37/-17.1|-54.8/-17.23</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="" title="Çorba Üretim Alanı" description="">
+        <polystring>-97.69/5.69|-110.55/3.79|-110.5/-3.24|-97.63/-3.09</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-163.22/-10.49|-163.25/-12.98|-164.48/-13.15|-164.68/-10.57</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-141.33/-8.5|-141.22/-10.2|-142.38/-10.41|-142.59/-8.74</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-256.08/-17.33|-256.1/-20.4|-259.31/-20.54|-259.07/-16.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-305.24/-10.93|-305.56/-13.4|-307.39/-13.18|-307.16/-10.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-328.82/-7.93|-328.81/-9.57|-329.9/-9.59|-329.91/-7.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-28.24/4.16|-34.71/3.98|-34.66/-2.53|-30.3/-2.32|-29.84/-1.01|-28.4/-0.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-23.96/-3.55|-25.3/-4.66|-30.14/-4.57|-30.19/-2.38|-29.79/-1.07|-24.53/-0.86|-23.93/-1.7</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-104.170" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="5.870" popbackmode="0" tilt="0.730" handcursor="1" width="848" clickmode="1">
+        <source url="media/corba_cesitleri3.jpg"/>
+      </image>
+      <image id="Element02" pan="-115.210" rotx="5.000" roty="52.000" rotz="0.000" stretch="1.000" height="891" hidepinned="0" popoutscaling="100" fov="6.530" popbackmode="0" tilt="0.090" handcursor="1" width="851" clickmode="1">
+        <source url="media/kuzu_kaburga.jpg"/>
+      </image>
+      <image id="Element03" pan="-126.060" rotx="4.000" roty="51.000" rotz="-1.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="11.820" popbackmode="0" tilt="0.460" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element04" pan="-145.310" rotx="0.000" roty="42.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="17.770" popbackmode="0" tilt="0.670" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element05" pan="-166.650" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="867" hidepinned="0" popoutscaling="100" fov="19.920" popbackmode="0" tilt="0.680" handcursor="1" width="853" clickmode="1">
+        <source url="media/cag_kebabi.jpg"/>
+      </image>
+      <image id="Element06" pan="-306.340" rotx="0.000" roty="-22.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="23.720" popbackmode="0" tilt="3.210" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element07" pan="-333.580" rotx="0.000" roty="-45.000" rotz="0.000" stretch="1.000" height="939" hidepinned="0" popoutscaling="100" fov="14.130" popbackmode="0" tilt="2.190" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba1.jpg"/>
+      </image>
+      <image id="Element08" pan="-2.210" rotx="0.000" roty="15.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="6.860" popbackmode="0" tilt="0.810" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element09" pan="-350.070" rotx="0.000" roty="-67.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="7.690" popbackmode="0" tilt="0.920" handcursor="1" width="849" clickmode="1">
+        <source url="media/kebap2.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="75.8637" projection="4" tilt="-10.342"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node26" datetime="22.10.2022 10:12" title="s4" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-90.2" url="{node27}" skinid="ht_node" tilt="-8.84" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-194.76" url="{node4}" skinid="ht_node" tilt="-0.490002" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-304.11" url="{node5}" skinid="ht_node" tilt="0.93" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-316.39/5.94|-31.88/30.67|-29.07/-20.73|-316.45/-1.52</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-32/30.74|-36.42/33.55|-146.49/28.98|-146.67/-23.18|-35.05/-23.69|-29.08/-20.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-146.35/29.08|-165.19/13.88|-206.91/3.78|-206.56/-3.56|-163.91/-12.02|-146.98/-22.97</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-206.94/3.78|-223.95/4.11|-224.39/-2.96|-206.64/-3.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Yemek Salonu - Aile Yeri" description="">
+        <polystring>-252.82/15.53|-278.49/10.41|-278.82/-5.94|-254.18/-12.09</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="{node14}" target="" title="Çorba Üretim Alanı" description="">
+        <polystring>-303.3/6.95|-316.36/5.88|-316.42/-1.58|-303.22/-1.19</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-356.62/-16.17|-358.89/-16.69|-358.65/-20.63|-356.49/-19.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-334.27/-8.73|-335.12/-9.03|-334.97/-11.1|-334.03/-10.87</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-159.22/-16.81|-161.58/-16.59|-161.95/-19.6|-159.42/-19.57</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-179.16/-9.72|-180.12/-9.32|-180.27/-11.24|-179.19/-11.53</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-231.84/-2.68|-232.58/-3.5|-234.43/-3.5|-234.35/-2.48|-234.9/-2.48|-234.7/-0.44|-231.96/-0.6|-231.72/-1.46</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Kasa" description="">
+        <polystring>-234.79/-6.62|-218.23/-7.66|-218.13/-6.16|-215.02/-6.24|-214.67/-6.58|-214.64/-7.91|-212.97/-9.98|-214/-11.24|-217.19/-11.99|-222.9/-12.19|-231.83/-11.73|-240.47/-10.48|-240.47/-10.48|-240.43/-8.72</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-309.810" rotx="0.000" roty="11.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="7.850" popbackmode="0" tilt="2.520" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element02" pan="-322.170" rotx="0.000" roty="68.000" rotz="0.000" stretch="1.000" height="853" hidepinned="0" popoutscaling="100" fov="10.830" popbackmode="0" tilt="2.420" handcursor="1" width="853" clickmode="1">
+        <source url="media/cipura.jpg"/>
+      </image>
+      <image id="Element03" pan="-332.510" rotx="0.000" roty="54.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="14.630" popbackmode="0" tilt="2.230" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element04" pan="-358.290" rotx="0.000" roty="36.000" rotz="0.000" stretch="1.000" height="867" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="3.720" handcursor="1" width="853" clickmode="1">
+        <source url="media/cag_kebabi.jpg"/>
+      </image>
+      <image id="Element05" pan="-148.010" rotx="0.000" roty="-52.000" rotz="0.000" stretch="1.000" height="846" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="0.490" handcursor="1" width="849" clickmode="1">
+        <source url="media/adana_urfa_konya.jpg"/>
+      </image>
+      <image id="Element06" pan="-177.700" rotx="0.000" roty="-50.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="16.610" popbackmode="0" tilt="0.080" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element07" pan="-193.650" rotx="0.000" roty="-47.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="10.000" popbackmode="0" tilt="-0.530" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element08" pan="-201.340" rotx="0.000" roty="-61.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="7.020" popbackmode="0" tilt="-0.170" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element09" pan="-214.950" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="891" hidepinned="0" popoutscaling="100" fov="5.040" popbackmode="0" tilt="-0.110" handcursor="1" width="851" clickmode="1">
+        <source url="media/kuzu_kaburga.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="172.285" projection="4" tilt="-13.6564"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node5" datetime="22.10.2022 09:26" title="s8" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-352.27" url="{node26}" skinid="ht_node" tilt="-1.61" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-97.34" url="{node11}" skinid="ht_node" tilt="-2.8" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-187.74" url="{node6}" skinid="ht_node" tilt="1.11" target="" title="" description=""/>
+      <hotspot customimage="media/sabah_kahvalti.jpg" id="Point04" distance3D="857.254" pan="-167.42" url="OP32-X8s8fo" target="" description="" fov="10" skinid="ht_video_youtube" tilt="-13.72" customimagewidth="150" title="Sabah Kahvaltısı" customimageheight="200" use3D="0"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-200.12/5.08|-247.77/18.8|-248.11/-12.01|-200.1/-4.94</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-247.86/18.95|-335.96/11.67|-335.67/-6.31|-248.19/-11.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-335.87/11.77|-2.67/9.95|-14.31/7.83|-35.09/7.27|-34.76/-4.25|-13.76/-4.41|-2.58/-5.15|-335.68/-6.33</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-50.51/4.82|-64.87/3.49|-67.37/3.45|-67.32/-1.15|-67.15/-2.71|-57.28/-3.5|-50.36/-3.82</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-83.9/5.13|-100.84/4.88|-100.38/-8.35|-95.64/-8.35|-95.79/-4.6|-95.52/-3.85|-83.63/-3.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="" title="Çorba Üretim Yeri" description="">
+        <polystring>-181.6/6.65|-200.12/4.88|-200.1/-5.03|-181.88/-6.31</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Bebek Yemek Masaları" description="">
+        <polystring>-41.84/-11.08|-56.8/-8.51|-63.64/-11.11|-61.52/-15.34|-54.23/-18.02|-46.25/-19.49|-41.9/-18.95</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-327.62/-7.85|-328.93/-7.56|-328.91/-9.59|-327.92/-9.99</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-301.05/-11.54|-303.16/-11.46|-303.04/-14.73|-301.19/-14.69</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-258.83/-12.42|-261.52/-12.38|-261.44/-15.69|-258.87/-15.37</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-227.93/-9.71|-229.42/-9.82|-229.44/-11.7|-227.96/-11.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-127.26/-19.08|-129.96/-18.77|-129.96/-22.07|-127.25/-22.35</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-71.7/-17.84|-74.77/-18.38|-74.86/-22.15|-71.49/-21.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-77.35/-14.95|-80.01/-15.3|-80.12/-18.37|-77.01/-18.03</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-7.61/-4.84|-8.59/-4.75|-8.66/-6.57|-7.45/-6.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-68.62/-4.25|-72.5/-4.38|-74.45/-3.92|-74.49/-2.49|-73.8/-1.32|-69.58/-1.14|-68.72/-2.41</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-190.290" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="10.170" popbackmode="0" tilt="0.080" handcursor="1" width="848" clickmode="1">
+        <source url="media/corba_cesitleri3.jpg"/>
+      </image>
+      <image id="Element02" pan="-210.380" rotx="0.000" roty="51.000" rotz="0.000" stretch="1.000" height="966" hidepinned="0" popoutscaling="100" fov="11.490" popbackmode="0" tilt="0.610" handcursor="1" width="853" clickmode="1">
+        <source url="media/cig_kofte3.jpg"/>
+      </image>
+      <image id="Element03" pan="-233.580" rotx="0.000" roty="27.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="16.120" popbackmode="0" tilt="0.800" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element04" pan="-278.220" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="4.610" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element05" pan="-320.560" rotx="0.000" roty="-37.000" rotz="0.000" stretch="1.000" height="939" hidepinned="0" popoutscaling="100" fov="19.090" popbackmode="0" tilt="3.500" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba1.jpg"/>
+      </image>
+      <image id="Element06" pan="-8.280" rotx="0.000" roty="-12.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="10.990" popbackmode="0" tilt="1.600" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element07" pan="-57.530" rotx="0.000" roty="-25.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="7.520" popbackmode="0" tilt="0.290" handcursor="1" width="848" clickmode="1">
+        <source url="media/corba_cesitleri3.jpg"/>
+      </image>
+      <image id="Element08" pan="-23.670" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="891" hidepinned="0" popoutscaling="100" fov="9.500" popbackmode="0" tilt="1.410" handcursor="1" width="851" clickmode="1">
+        <source url="media/kuzu_kaburga.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="61.1638" pan="36.4464" projection="4" tilt="-7.68534"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node6" datetime="22.10.2022 09:28" title="s9" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-358.21" url="{node5}" skinid="ht_node" tilt="-0.41" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-105.14" url="{node8}" skinid="ht_node" tilt="-1.63" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-182.05" url="{node7}" skinid="ht_node" tilt="1.25" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-201.92/8.94|-202.76/-7.08|-242.79/-13.02|-242.27/18.07|-219.25/12.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-242.27/18.15|-281.24/21.3|-279.57/-13.23|-242.83/-13.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-281.21/21.44|-319.2/15.3|-318.15/-8.98|-279.55/-13.27</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-319.26/15.3|-344.1/6.85|-357.89/6.08|-2.22/5.96|-2.34/-2.55|-358.16/-2.66|-343.23/-3.4|-318.19/-9.04</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-2.26/5.96|-15.05/5.12|-15.01/-2.63|-6/-2.59|-2.33/-2.52</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-23.35/5.13|-32.43/4.61|-32.17/-2.63|-23.24/-2.5</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-48.05/3|-53.07/2.5|-52.93/-2.82|-49.13/-2.77|-48.99/-0.89|-48.77/0.4|-48.01/0.47|-48.05/2.95</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="" title="Çorba Üretim Yeri" description="">
+        <polystring>-170.92/11.55|-201.92/8.98|-202.68/-7.21|-171.42/-9.43</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-111.19/6.21|-113.53/6.26|-140.22/13.08|-141.53/12.64|-141.3/-2.91|-139.33/-3.07|-133.27/-3.18|-128.26/-2.89|-128.25/-8.86|-118.71/-6.96|-113.11/-5.83|-110.88/-5.51</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-149.98/9.57|-158.09/6.93|-158.16/-6.67|-149.6/-8.69|-149.51/8.24|-150.08/8.43</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-207.83/-7.91|-208.62/-7.98|-208.54/-9.7|-207.79/-9.62</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-220.06/-10.56|-221.25/-10.74|-221.31/-12.69|-220.16/-12.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-251.29/-13.76|-254.21/-13.77|-254.1/-16.73|-251.26/-16.72</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-297.67/-12.27|-299.89/-12.01|-300.21/-14.66|-297.69/-14.99</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-323.75/-7.95|-324.94/-7.71|-324.94/-9.42|-323.74/-9.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-335.82/-5.45|-336.59/-5.21|-336.64/-6.55|-335.91/-6.61</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-30.91/-9.61|-31.97/-9.98|-31.99/-12.11|-30.88/-11.84</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-76.76/-19.03|-81.71/-19.43|-81.45/-23.21|-76.63/-22.98</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-153.13/-10.44|-154.04/-10.13|-154.03/-11.41|-153.22/-11.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly20" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-27.02/-6.47|-27.77/-6.53|-27.7/-8.23|-26.9/-7.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly21" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-21.38/-6.29|-21.93/-6.39|-21.75/-7.78|-21.11/-7.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly22" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-58.67/3.27|-61.79/3.29|-61.6/-4.26|-58.52/-3.73</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-187.730" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="12.150" popbackmode="0" tilt="-0.370" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element02" pan="-211.020" rotx="0.000" roty="42.000" rotz="0.000" stretch="1.000" height="893" hidepinned="0" popoutscaling="100" fov="11.650" popbackmode="0" tilt="0.430" handcursor="1" width="859" clickmode="1">
+        <source url="media/corba_cesitleri.jpg"/>
+      </image>
+      <image id="Element03" pan="-244.860" rotx="0.000" roty="31.000" rotz="-3.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="24.710" popbackmode="0" tilt="3.180" handcursor="1" width="848" clickmode="1">
+        <source url="media/corba_cesitleri3.jpg"/>
+      </image>
+      <image id="Element04" pan="-302.220" rotx="0.000" roty="-30.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="22.890" popbackmode="0" tilt="2.490" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element05" pan="-329.640" rotx="0.000" roty="-55.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="15.290" popbackmode="0" tilt="2.050" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element06" pan="-350.990" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="939" hidepinned="0" popoutscaling="100" fov="6.690" popbackmode="0" tilt="1.100" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba1.jpg"/>
+      </image>
+      <image id="Element07" pan="-9.230" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="939" hidepinned="0" popoutscaling="100" fov="6.530" popbackmode="0" tilt="1.440" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba1.jpg"/>
+      </image>
+      <image id="Element08" pan="-27.920" rotx="0.000" roty="19.000" rotz="0.000" stretch="1.000" height="860" hidepinned="0" popoutscaling="100" fov="6.030" popbackmode="0" tilt="1.290" handcursor="1" width="853" clickmode="1">
+        <source url="media/pirzola.jpg"/>
+      </image>
+      <image id="Element09" pan="-50.940" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="4.210" popbackmode="0" tilt="0.030" handcursor="1" width="853" clickmode="1">
+        <source url="media/et_sis.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="99.0082" pan="153.427" projection="4" tilt="-3.18941"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node7" datetime="22.10.2022 09:29" title="s11" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-359.62" url="{node6}" skinid="ht_node" tilt="0.58" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-52.14" url="{node8}" skinid="ht_node" tilt="-3.25" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-182.83" url="{node14}" skinid="ht_node" tilt="1.78" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-208.87" url="1xZnumOiFm4" skinid="ht_video_youtube" tilt="2.61" target="" title="Şırdan Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-242.14/20.82|-300.15/18.4|-298.8/-10.53|-242.48/-11.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-300.12/18.49|-350.03/4.78|-359.96/4.31|-5.47/3.96|-5.42/-2.13|-359.52/-2.06|-349.68/-2.49|-298.83/-10.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-5.46/3.99|-10.54/3.78|-10.5/-2.11|-5.44/-2.12</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-34.82/2.18|-42.18/1.68|-42.28/-1.41|-40.95/-1.33|-40.94/-2.12|-35.61/-1.9|-35.38/-0.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Çorba Üretim Alanı" description="">
+        <polystring>-155.95/38.6|-242/20.8|-242.36/-11.3|-159.62/-22.4</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-63.13/27.68|-114.63/28.71|-114.68/17.22|-111.88/17.8|-112.01/-15.89|-62.28/-13.61</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-267.77/-11.36|-268.03/-14.6|-270.66/-14.69|-270.84/-11.2</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-301.45/-10.29|-303.66/-9.98|-303.69/-12.49|-301.74/-12.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-324.46/-6.91|-325.86/-6.62|-325.77/-8.96|-324.46/-8.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-19.36/-6.91|-20.07/-7.08|-19.76/-8.52|-19.13/-8.33</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-69.97/-20.78|-74/-21.21|-73.82/-25.09|-69.68/-24.85</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-211.390" rotx="0.000" roty="-23.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="42.560" popbackmode="0" tilt="6.580" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element02" pan="-269.030" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="4.470" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element03" pan="-315.890" rotx="0.000" roty="-30.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="19.420" popbackmode="0" tilt="2.670" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element04" pan="-336.200" rotx="0.000" roty="-51.000" rotz="0.000" stretch="1.000" height="893" hidepinned="0" popoutscaling="100" fov="10.830" popbackmode="0" tilt="2.260" handcursor="1" width="859" clickmode="1">
+        <source url="media/corba_cesitleri.jpg"/>
+      </image>
+      <image id="Element05" pan="-354.130" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="4.710" popbackmode="0" tilt="1.030" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element06" pan="-6.020" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="887" hidepinned="0" popoutscaling="100" fov="3.880" popbackmode="0" tilt="0.460" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_izgara.jpg"/>
+      </image>
+      <image id="Element07" pan="-38.580" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="3.390" popbackmode="0" tilt="-0.200" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="-94.9698" projection="4" tilt="-23.1732"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node8" datetime="22.10.2022 09:31" title="s10" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-90.81" url="{node9}" skinid="ht_node" tilt="3.22" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-262.76" url="{node7}" skinid="ht_node" tilt="-1.62" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-126.86" url="O25AYsk6N_c" skinid="ht_video_youtube" tilt="0.15" target="" title="Ocak Alanı" description=""/>
+      <hotspot id="Point04" pan="-142.68" url="kv2_8ugEyWM" skinid="ht_video_youtube" tilt="0.08" target="" title="Cağ Kebabı" description=""/>
+      <hotspot id="Point05" pan="-166.49" url="QQFcGtIvjWY" skinid="ht_video_youtube" tilt="-2.92" target="" title="Pide Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-231.16/8.33|-324.13/6.49|-324.33/-0.61|-323.31/-4.33|-231.04/-7.79</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-4.11/5.02|-22.04/4.63|-22.54/-2.04|-3.99/-2.28</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-28.31/3.34|-39.36/3.13|-39.38/-2.08|-30.73/-1.86|-30.43/0.22|-28.4/0.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-45.34/3.86|-45.17/-1.48|-46.85/-1.26|-46.69/3.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Yayık Ayran" description="">
+        <polystring>-173.16/-7.6|-206.86/-6.88|-208.74/-37.67|-206.25/-38.32|-208.99/-56.43|-172.88/-59.62|-174.87/-41.36|-172.22/-40.54</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-67.18/-9.36|-68.72/-9.48|-68.57/-11.51|-66.9/-11.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-240.63/-6.49|-241.77/-6.57|-241.78/-7.93|-240.89/-7.85</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-278.02/-7.16|-279.52/-7.02|-279.64/-8.12|-278.14/-8.26</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-298.36/-5.77|-300.02/-5.8|-300.01/-7.59|-298.25/-7.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-312.74/-4.83|-313.78/-4.79|-313.77/-5.91|-312.83/-6.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="" description="">
+        <polystring>-111.31/12.63|-179.47/34.74|-180.35/-7.21|-173.15/-7.38|-171.99/-24.6|-111.25/-9.28</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Çorba Üretim Alanı" description="">
+        <polystring>-212.4/13.59|-231.05/8.33|-230.94/-7.89|-212.78/-10.74</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-222.350" rotx="0.000" roty="-39.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="16.940" popbackmode="0" tilt="0.290" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element02" pan="-246.210" rotx="0.000" roty="12.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="13.970" popbackmode="0" tilt="0.080" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element03" pan="-275.180" rotx="0.000" roty="-4.000" rotz="0.000" stretch="1.000" height="954" hidepinned="0" popoutscaling="100" fov="12.480" popbackmode="0" tilt="0.410" handcursor="1" width="853" clickmode="1">
+        <source url="media/cig_kofte2.jpg"/>
+      </image>
+      <image id="Element04" pan="-308.790" rotx="0.000" roty="-38.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="11.980" popbackmode="0" tilt="0.840" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element05" pan="-13.380" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="7.020" popbackmode="0" tilt="1.460" handcursor="1" width="853" clickmode="1">
+        <source url="media/izgara2.jpg"/>
+      </image>
+      <image id="Element06" pan="-34.890" rotx="0.000" roty="-19.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="5.540" popbackmode="0" tilt="1.070" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70.4209" pan="134.571" projection="4" tilt="-18.7882"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node9" datetime="22.10.2022 09:32" title="s13" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-264.07" url="{node8}" skinid="ht_node" tilt="0.7" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-357.29" url="{node10}" skinid="ht_node" tilt="0.79" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-93.06" url="{node12}" skinid="ht_node" tilt="5.15" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-145.12" url="O25AYsk6N_c" skinid="ht_video_youtube" tilt="-1.3" target="" title="Kebap Üretimi" description=""/>
+      <hotspot id="Point05" pan="-162.18" url="kv2_8ugEyWM" skinid="ht_video_youtube" tilt="-0.19" target="" title="Cağ Kebabı" description=""/>
+      <hotspot id="Point06" pan="-190.17" url="QQFcGtIvjWY" skinid="ht_video_youtube" tilt="0.31" target="" title="Pide Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-239.51/5.87|-291.56/7.27|-291.01/3.25|-287.52/2.37|-287.19/0.91|-286.3/-1.95|-285.52/-4.46|-246.56/-4.72|-246.27/-1.07|-239.61/-0.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-347.13/5.17|-8.39/5.25|-8.44/-2.41|-346.89/-2.03</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-13.78/4.32|-18.89/4.38|-19.01/-0.19|-16.6/-0.2|-15.1/1.76|-13.69/1.77</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Yayık Ayran" description="">
+        <polystring>-230.43/-1.48|-240.74/-1.93|-246.32/-1.35|-247.44/-28.45|-241.97/-32.35|-241.12/-17.65|-235.72/-16.99|-234.16/-7.15|-230.09/-6.96</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Temiz Bardaklar" description="">
+        <polystring>-298.12/-30.28|-291.28/-31.89|-285.21/-23.77|-285.48/-12.16|-285.65/-4.36|-287.79/2.2|-293.39/3.13|-298.1/3|-298.58/-14.32|-295.64/-15.37|-297.96/-29.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-45.27/-16.44|-48/-16.9|-47.5/-20.84|-45/-20.01</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-307.2/-13.92|-309.51/-13.59|-309.78/-17.28|-307.46/-17.81</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-256.94/-4.89|-257.83/-4.72|-257.63/-6.22|-256.57/-6.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-272.77/-4.57|-274.08/-4.48|-273.77/-5.67|-272.46/-5.76</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Ocak Alanı" description="">
+        <polystring>-131/22.68|-238.84/17.83|-236.76/17.06|-237.33/-1.62|-230.31/-1.25|-229.87/-16.62|-127/-16.28|-130.87/-14.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-25.8/3.77|-28.1/3.79|-28.09/-3.09|-25.68/-3.3</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-34.88/4.8|-44.63/5.69|-44.16/-5.75|-34.83/-4.76</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-63.72/7.97|-63.26/-10.59|-71.68/-7.12|-72/5.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Çay Alanı" description="">
+        <polystring>-93.92/-6.68|-94.2/2.41|-97.18/4.64|-100.02/6.35|-105.23/7.96|-107.78/8.14|-110.73/7.6|-113.97/6.31|-115.74/5.11|-115.49/1.01|-113.83/1.32|-113.83/-0.04|-113.15/-1.95|-112.9/-2.81|-112.71/-7.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-261.140" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="10.500" popbackmode="0" tilt="0.960" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element02" pan="-360.000" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="851" hidepinned="0" popoutscaling="100" fov="6.690" popbackmode="0" tilt="1.380" handcursor="1" width="849" clickmode="1">
+        <source url="media/izgara1.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="53.0507" pan="-176.582" projection="4" tilt="-14.8754"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node10" datetime="22.10.2022 09:35" title="s14" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-358.77" url="{node11}" skinid="ht_node" tilt="-0.22" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-268.06" url="{node5}" skinid="ht_node" tilt="1.85" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-90.17" url="{node12}" skinid="ht_node" tilt="2.65" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-180.78" url="{node9}" skinid="ht_node" tilt="-0.08" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-254.83/7.3|-288.51/7.64|-288.85/-4.21|-255.15/-5.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-315.01/6.54|-329.18/6.26|-329.26/-3.01|-317.36/-2.75|-315.41/2.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-342.39/6.28|-342.26/-2.57|-9.52/-3.15|-10.09/-1.37|-12.44/0.01|-14.29/0.01|-14.06/6.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-24.68/5.3|-40.62/4.76|-40.58/-2.44|-35.8/-2.63|-28.03/-2.58|-27.87/-0.63|-26.73/1.56|-24.69/1.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-224.63/-15.34|-226.73/-15.6|-226.52/-18.96|-224.48/-18.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-133.94/-16.24|-135.89/-15.73|-135.94/-19.14|-133.95/-19.69</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-308.95/-17.03|-311.46/-16.57|-311.57/-20.4|-308.91/-20.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-49.66/-15.84|-52.05/-16.1|-51.95/-19.91|-49.41/-19.4</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-153.86/9.96|-206.6/9.57|-206.89/-1.98|-200.4/-2.33|-200.58/-8.71|-153.61/-9.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Yayık Ayran" description="">
+        <polystring>-202.23/-2.03|-208.21/-2.33|-208.24/-9.28|-207.09/-9.61|-207.71/-18.22|-207.05/-18.32|-206/-15.4|-203.29/-15.3|-203.24/-10.06|-202.37/-10.04</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="{node14}" target="" title="Çorba Üretim ALanı" description="">
+        <polystring>-209.24/7.53|-221.95/4.93|-222.05/1.33|-221.39/-1.12|-220.14/-3.57|-209.41/-3.96</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-264.57/-4.59|-265.97/-4.58|-266.01/-5.87|-264.6/-5.97</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-280.87/-4.23|-282.03/-4.2|-282.02/-5.66|-280.93/-5.61</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-355.52/-2.99|-356.47/-2.91|-356.29/-3.88|-355.42/-3.95</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-6.38/-2.88|-7.28/-2.88|-7.19/-3.95|-6.38/-3.95</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-73.23/-6.97|-74.65/-7.13|-74.66/-8.8|-73.32/-8.74</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-43.07/-7.97|-44.42/-8.13|-44.24/-9.9|-43.04/-9.81</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-28.03/-9.9|-29.18/-10.25|-29.08/-11.91|-27.87/-11.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-323.17/-9.29|-323.99/-8.91|-324.12/-10.52|-323.3/-10.56</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly20" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-9.39/-3.95|-10.22/-4.4|-15.46/-4.54|-15.4/-1.94|-14.4/-0.65|-12.4/0.12|-9.94/-1.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly21" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-63.73/7.02|-70.38/7.3|-70.13/-5.31|-69.38/-5.62|-69.32/-7.77|-63.33/-7.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly22" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-79.76/7.31|-82.95/7.21|-83/8.72|-98.16/8.41|-98.16/-17.39|-89.68/-17.61|-89.77/-15.8|-82.38/-15.42|-82.39/-11.67|-79.36/-11.54</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="-176.855" projection="4" tilt="-15.0676"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node11" datetime="22.10.2022 09:37" title="s7" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-260.12" url="{node5}" skinid="ht_node" tilt="1" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-356.18" url="{node2}" skinid="ht_node" tilt="0.51" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-84.45" url="{node23}" skinid="ht_node" tilt="0.81" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-175.49" url="{node10}" skinid="ht_node" tilt="1.54" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-221.67/5.14|-281.35/8.02|-281.34/-3.82|-222.98/-3.68|-222.6/-1.59|-221.57/1.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-309.68/9.41|-322.62/8.81|-38.75/6.48|-38.29/-4.77|-13.12/-6.05|-8.82/-5.99|-322.51/-4.53|-309.73/-4.02</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-239.59/-14.32|-242.15/-14.46|-241.74/-17.95|-239.42/-17.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-117.67/-18.01|-120.41/-17.71|-120.41/-21.96|-117.89/-22.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-105.24/-11.89|-106.72/-11.69|-106.66/-14.52|-105.07/-14.56</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-98.41/-8.68|-99.87/-8.61|-99.98/-10.99|-98.21/-11.3</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-332.6/-5.24|-333.71/-5.14|-333.63/-7.1|-332.54/-6.88</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-350.59/-5.92|-351.64/-5.97|-351.6/-7.68|-350.55/-7.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-9.07/-6.37|-10.19/-6.26|-10.18/-7.87|-8.93/-7.85</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-144.16/-11.65|-145.44/-11.22|-145.96/-13.83|-144.45/-14.54</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-203.52/-11.41|-204.64/-11.75|-204.39/-14.24|-203.39/-14.25</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="{node21}" target="" title="Ocak Alanı" description="">
+        <polystring>-162.7/5.18|-191.22/5.15|-191.66/-5.11|-162.6/-6.01</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-115.65/-7.67|-117.25/-7.46|-117.16/-9.27|-115.69/-9.24</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-75.44/-9.85|-76.83/-9.87|-76.65/-12.09|-75.37/-11.96</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-244.12/-11.13|-246.5/-11.13|-246.3/-13.79|-244.26/-13.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-36.41/-5.1|-37.07/-5.04|-36.99/-6.18|-36.32/-6.16</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-37.41/-15.65|-37.52/-9.83|-42/-2.56|-46.9/-2.65|-57.92/-3.39|-61.26/-6.56|-61.73/-10.77|-61.46/-14.48|-51.63/-19.21</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-79.75/6.8|-109.03/5.73|-108.93/-8.93|-79.13/-9.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-118.23/5.41|-121.03/5.44|-130.54/4.96|-130.42/-8.22|-120.98/-8.48|-118.11/-8.03</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-235.820" rotx="0.000" roty="19.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="8.680" popbackmode="0" tilt="1.210" handcursor="0" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+      <image id="Element02" pan="-262.790" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="891" hidepinned="0" popoutscaling="100" fov="9.830" popbackmode="0" tilt="1.710" handcursor="1" width="851" clickmode="1">
+        <source url="media/kuzu_kaburga.jpg"/>
+      </image>
+      <image id="Element03" pan="-332.850" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="11.820" popbackmode="0" tilt="1.760" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+      <image id="Element04" pan="-13.550" rotx="0.000" roty="-17.000" rotz="0.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="13.970" popbackmode="0" tilt="1.490" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="38.972" pan="-176.318" projection="4" tilt="-14.5363"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node23" datetime="22.10.2022 10:05" title="s3" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-264.95" url="{node2}" skinid="ht_node" tilt="-3.27" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-179.95" url="{node11}" skinid="ht_node" tilt="-4.75" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-1.88" url="{node22}" skinid="ht_node" tilt="1.71" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-154.11/3.19|-184.99/3.61|-185.2/-5.76|-156.01/-5.15|-155.93/-2.68|-154.92/-0.77|-153.89/-0.51</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-195.97/2.17|-200.31/2.28|-200.43/-4.05|-197.06/-3.99|-195.99/-4.78</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-244.67/9.51|-244.89/4.25|-249.41/3.36|-254.6/-5.72|-293.77/-5.16|-293.4/9.72|-255.33/10.13</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-293.45/9.53|-306.85/8.42|-321.55/10.28|-321.39/-5.49|-306.53/-4.4|-293.81/-5.14</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-134.84/3.14|-145.32/3.17|-145.41/-4.53|-139.12/-3.98|-139.29/1.68|-134.77/2.02</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="{node14}" target="" title="Çorba Üretim Alanı" description="">
+        <polystring>-122.32/4.47|-127.63/3.28|-127.62/-0.35|-127.67/-2.87|-122.12/-2.66</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-166.22/-8.37|-167.64/-8.53|-167.58/-10.14|-166.26/-10.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-146.07/-8.36|-147.22/-8.37|-147.14/-9.76|-146.05/-9.75</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-132.86/-22.32|-135.86/-23.05|-135.72/-26.65|-132.93/-26.06</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-112.34/-12.52|-113.9/-12.16|-114.19/-15.08|-112.42/-15.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-82.46/-30.98|-87.26/-31.2|-87.16/-37.15|-81.91/-37.25</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-33.88/-21.62|-37.24/-20.71|-37.75/-24.54|-34.03/-25.66</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-51.94/-10.34|-53.13/-10.15|-53.45/-12.36|-52.25/-12.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-318.18/-35.82|-322.41/-32.94|-322.98/-37.88|-318.59/-40.99</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-285.94/-5.52|-287.14/-5.4|-287.07/-6.92|-285.92/-7.04</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-300.8/-4.74|-301.89/-4.59|-301.94/-6.01|-301.03/-6.03</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-173.98/-5.29|-174.55/-5.23|-174.73/-6.31|-173.91/-6.23</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-163.93/-5.1|-164.58/-5.06|-164.57/-5.67|-163.98/-5.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-98.2/-12.35|-99.85/-12.3|-99.95/-14.55|-98.09/-14.56</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly20" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-93.24/-6.48|-94.06/-6.54|-94.21/-7.78|-93.13/-7.85</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly21" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-342.34/13.17|-346.3/14.92|-38.04/11.62|-46.43/10.78|-46.73/-9.44|-37.55/-7.72|-345.98/-9.43|-342.04/-12.44</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly22" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-195.17/-12.65|-199.13/-14.32|-200.55/-14.63|-200.82/-7.47|-200.72/-4.75|-200.01/-4.05|-196.99/-4.07|-195.89/-4.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly23" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-53.8/10.97|-56.32/10.99|-64.61/8.71|-63.99/-9.33|-56.06/-10.88|-53.54/-10.06|-53.67/11.3</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly24" url="" target="_blank" title="Lavabo" description="">
+        <polystring>-77.65/6.09|-81.36/6.16|-81.08/-6.22|-77.72/-6.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly25" url="" target="_blank" title="Çay Üretim Alanı" description="">
+        <polystring>-84.17/6.02|-91.03/5.94|-90.84/1.09|-89.48/-0.61|-89.49/-4.21|-83.97/-4.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-125.230" rotx="0.000" roty="-32.000" rotz="0.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="4.710" popbackmode="0" tilt="0.480" handcursor="1" width="851" clickmode="1">
+        <source url="media/corba_cesitleri2.jpg"/>
+      </image>
+      <image id="Element02" pan="-142.070" rotx="0.000" roty="27.000" rotz="0.000" stretch="1.000" height="966" hidepinned="0" popoutscaling="100" fov="5.040" popbackmode="0" tilt="-0.760" handcursor="1" width="853" clickmode="1">
+        <source url="media/cig_kofte3.jpg"/>
+      </image>
+      <image id="Element03" pan="-167.950" rotx="0.000" roty="16.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="7.850" popbackmode="0" tilt="-0.980" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+      <image id="Element04" pan="-270.830" rotx="0.000" roty="0.000" rotz="-1.000" stretch="1.000" height="849" hidepinned="0" popoutscaling="100" fov="10.657" popbackmode="0" tilt="1.810" handcursor="1" width="853" clickmode="1">
+        <source url="media/izgara2.jpg"/>
+      </image>
+      <image id="Element05" pan="-297.820" rotx="0.000" roty="-20.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="10.331" popbackmode="0" tilt="1.150" handcursor="0" width="853" clickmode="0">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element06" pan="-314.940" rotx="0.000" roty="29.000" rotz="1.000" stretch="1.000" height="848" hidepinned="0" popoutscaling="100" fov="12.310" popbackmode="0" tilt="2.070" handcursor="1" width="852" clickmode="1">
+        <source url="media/izgara.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="58.1604" pan="-95.8799" projection="4" tilt="-14.8417"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node22" datetime="22.10.2022 10:03" title="s16" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-1.08" url="{node24}" skinid="ht_node" tilt="-1.62" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-186.91" url="{node11}" skinid="ht_node" tilt="-4.84" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-271.59" url="{node23}" skinid="ht_node" tilt="0.22" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-94.7" url="{node12}" skinid="ht_node" tilt="0.04" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-146.01/2.2|-152.08/2.27|-152.12/-0.4|-151.27/-0.48|-150.72/-2.36|-150.61/-3.93|-145.75/-4.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-171.56/3.31|-175.35/3.16|-175.45/-4.75|-171.58/-4.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-180.51/3.6|-206.94/3.27|-207.32/-4.54|-184.16/-4.93|-183.77/-2.59|-182.59/-0.63|-180.52/-0.27</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-217.3/4.53|-229.65/4.78|-232.29/4.92|-232.64/-1.26|-227.93/-1.81|-226.77/-4.35|-217.69/-4.5</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-250.47/7.39|-250.68/2.09|-252.26/1.94|-254.19/-1.3|-254.35/-3.59|-294.28/-3.57|-294.17/7.61</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-41.72/-27.56|-46.01/-26.33|-46.21/-31.31|-41.72/-32.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-153.07/-21.14|-156.47/-21.77|-156.37/-25.29|-153.01/-24.67</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-230.34/-27.96|-234.17/-26.41|-234.66/-30.2|-230.99/-32.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-206.54/-16.44|-209.11/-16.05|-209.39/-18.94|-206.84/-19.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-194.17/-7.07|-195.17/-6.97|-195.14/-8.18|-194.22/-8.2</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-291.87/-29.05|-293.6/-31.73|-293.33/-36.87|-291.33/-33.57</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-268.89/-12.47|-271.23/-12.53|-271.39/-15.56|-268.85/-15.79</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-255.39/-3.85|-256.1/-3.88|-256.01/-4.97|-255.3/-4.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-281.82/-3.96|-282.8/-3.96|-282.77/-4.95|-281.8/-4.94</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-118.23/-9.89|-119.44/-10.1|-119.43/-10.89|-118.01/-10.97|-118.01/-10.97</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly16" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-127.42/-9.69|-128.22/-9.58|-128.45/-11.27|-127.34/-11.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly17" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-177.22/-8.12|-178.77/-8.08|-178.54/-9.65|-177.37/-9.69</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly18" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-152.58/-6.14|-153.99/-6.28|-153.93/-7.53|-152.42/-7.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly19" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-312.14/13.2|-17.98/20.35|-15.85/-27.27|-311.45/-19.31</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly20" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-50.27/20.26|-57.16/21.39|-74.63/14.21|-74.38/-16.47|-57.33/-25.57|-49.57/-22.85</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly21" url="" target="_blank" title="Lavabo" description="">
+        <polystring>-89.84/7.19|-93.9/6.88|-93.45/-8.44|-89.75/-8.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly22" url="" target="_blank" title="Çay Üretim Alanı" description="">
+        <polystring>-96.99/6.38|-103.81/5.96|-103.34/-8.21|-96.55/-8.21</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly23" url="" target="_blank" title="Çorba Üretim Alanı" description="">
+        <polystring>-141.53/3.93|-145.66/2.78|-145.62/-4.28|-142.08/-4.29|-142.01/-2.07|-141.5/-1.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly24" url="" target="_blank" title="Papağan Gomez" description="">
+        <polystring>-226.89/-8.1|-231.81/-8.7|-232.66/-8.48|-232.64/-1.3|-230.21/-1.58|-227.93/-1.82|-226.78/-4.31</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-147.080" rotx="0.000" roty="22.000" rotz="4.000" stretch="1.000" height="835" hidepinned="0" popoutscaling="100" fov="4.550" popbackmode="0" tilt="-0.820" handcursor="1" width="683" clickmode="1">
+        <source url="media/adana.jpg"/>
+      </image>
+      <image id="Element02" pan="-194.510" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="855" hidepinned="0" popoutscaling="100" fov="7.190" popbackmode="0" tilt="-0.550" handcursor="1" width="855" clickmode="1">
+        <source url="media/cag_kebabi1.jpg"/>
+      </image>
+      <image id="Element03" pan="-224.650" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="853" hidepinned="0" popoutscaling="100" fov="7.190" popbackmode="0" tilt="-0.170" handcursor="1" width="853" clickmode="1">
+        <source url="media/cipura.jpg"/>
+      </image>
+      <image id="Element04" pan="-270.950" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="12.310" popbackmode="0" tilt="0.400" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="129.934" projection="4" tilt="-30.6914"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node24" datetime="22.10.2022 10:06" title="s17" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-233.82" url="{node22}" skinid="ht_node" tilt="-3.9" target="" title="" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="52.7783" pan="173.674" projection="4" tilt="-10.1683"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node12" datetime="22.10.2022 09:38" title="s15" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-273.64" url="{node9}" skinid="ht_node" tilt="-1.92" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-7.78" url="{node22}" skinid="ht_node" tilt="0.11" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-149.91" url="{node19}" skinid="ht_node" tilt="0.64" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-199.57" url="{node20}" skinid="ht_node" tilt="1.21" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-261.78/5.52|-286.07/5.95|-286.34/2.42|-284.14/1.96|-283.28/0.12|-283.29/-2.04|-266.1/-2.66|-265.84/0.99|-261.63/1.05</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-299/5.38|-298.99/-2.03|-306.44/-2.27|-306.43/5.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-321.46/4.49|-325.47/4.35|-325.37/-1.5|-321.44/-1.68</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-332.98/4.79|-340.12/4.72|-340.33/-1.89|-333.02/-1.72</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-347.07/4.9|-348.61/4.81|-348.52/-1.71|-347.07/-1.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-356.27/4.07|-13.33/3.67|-13.26/-2.9|-356.88/-2.25|-356.87/-0.74|-356.21/1.02</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-290.71/-5.13|-291.82/-4.98|-291.98/-6.46|-290.77/-6.87</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-320.92/-18.22|-323.31/-17.39|-323.48/-20.81|-321.25/-21.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-346.07/-7.33|-347.74/-7.31|-347.84/-8.29|-346.05/-8.39</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-18.1/-7.33|-19.23/-7.3|-19.34/-8.3|-17.97/-8.37</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly11" url="" target="_blank" title="Masa No : " description="">
+        <polystring>-339.6/-6.53|-340.5/-6.54|-340.4/-8.14|-339.41/-8.13</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly12" url="" target="_blank" title="" description="">
+        <polystring>-277.92/-2.27|-277.92/-3.14|-278.61/-3.15|-278.71/-2.18</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly14" url="" target="_blank" title="Üretim Alanı - Personel Harici Girilmez" description="">
+        <polystring>-187.63/2.73|-193.71/2.79|-193.87/-12.3|-187.83/-12.49</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly13" url="" target="_blank" title="Bulaşık Alanı" description="">
+        <polystring>-170.46/-0.84|-177.15/-0.7|-177.34/-12.6|-170.69/-12.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly15" url="" target="_blank" title="Çocuk Oyun ALanı" description="">
+        <polystring>-23.16/11.2|-31.69/15.2|-55.7/10.88|-55.27/-14.52|-31.45/-19.29|-22.89/-13.09</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-273.470" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="6.860" popbackmode="0" tilt="1.450" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+      <image id="Element02" pan="-302.990" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="954" hidepinned="0" popoutscaling="100" fov="5.210" popbackmode="0" tilt="1.430" handcursor="1" width="853" clickmode="1">
+        <source url="media/cig_kofte2.jpg"/>
+      </image>
+      <image id="Element03" pan="-336.930" rotx="0.000" roty="9.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="5.540" popbackmode="0" tilt="1.530" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+      <image id="Element04" pan="-4.920" rotx="0.000" roty="4.000" rotz="0.000" stretch="1.000" height="852" hidepinned="0" popoutscaling="100" fov="5.370" popbackmode="0" tilt="0.660" handcursor="1" width="853" clickmode="1">
+        <source url="media/corba_izgara1.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="55.0576" pan="4.98297" projection="4" tilt="-4.86855"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node19" datetime="22.10.2022 09:58" title="s18" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-261.89" url="{node12}" skinid="ht_node" tilt="0.43" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-55.7" url="{node16}" skinid="ht_node" tilt="-1.2" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-249.82/3.26|-252.43/3.38|-252.92/-1.57|-250.02/-1.6</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-259.97/2.71|-269.84/2.76|-269.99/-1.25|-261.84/-1.3|-261.49/0.81|-259.99/0.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Bayan Tuvalet" description="">
+        <polystring>-49.07/5.37|-57.13/5.64|-57.16/-21.16|-49.21/-19.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Bebek Bakım Odası" description="">
+        <polystring>-11.74/9.45|-25.3/8.91|-24.29/-34.07|-11.04/-35.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Mescit" description="">
+        <polystring>-317.91/11.43|-343.25/13.9|-342.49/-46.28|-316.9/-39.18</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Bulaşık ALanı" description="">
+        <polystring>-79.91/2.85|-111.94/1.94|-111.34/-22.13|-124.16/-33.99|-123.71/-54.39|-70.32/-57.03|-70.29/-36.9|-79.45/-22.07</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-266.250" rotx="0.000" roty="13.000" rotz="0.000" stretch="1.000" height="845" hidepinned="0" popoutscaling="100" fov="5.210" popbackmode="0" tilt="1.040" handcursor="1" width="853" clickmode="1">
+        <source url="media/ciger.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="85.9026" pan="-89.9479" projection="4" tilt="-11.8709"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node16" datetime="22.10.2022 09:53" title="s19" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-23.04" url="{node18}" skinid="ht_node" tilt="5.86" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-101.55" url="{node17}" skinid="ht_node" tilt="1.85" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-237.21" url="{node19}" skinid="ht_node" tilt="-0.33" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Bay Tuvalet" description="">
+        <polystring>-77.91/15.25|-103.84/14.22|-101.99/-44.09|-76.23/-43.6</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Bayan Tuvalet" description="">
+        <polystring>-44.58/11.2|-63.36/12.71|-61.61/-40.27|-44.29/-34.54</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Lavabo" description="">
+        <polystring>-21.75/11.06|-33.75/10.08|-34.26/-16.77|-39.04/-19.8|-39.43/-31.21|-22.3/-35.17|-21.91/-24.19|-22.03/-17.79</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Lavabo" description="">
+        <polystring>-118.63/12.37|-116.28/-23.53|-104/-28.13|-103.64/-41.73|-119.36/-59.33|-131.78/-54.41|-132.85/-41.24|-134.47/18.12</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Bebek Mama Odası" description="">
+        <polystring>-290.69/12.58|-300.05/17.36|-301.81/-52.31|-292.33/-41.79</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="140.198" projection="4" tilt="-17.9035"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node13" datetime="22.10.2022 09:40" title="S24" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-276.25" url="{node14}" skinid="ht_node" tilt="1.15" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-58.37" url="{node15}" skinid="ht_node" tilt="2.12" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-19.65" url="{node20}" skinid="ht_node" tilt="-1.74" target="" title="" description=""/>
+      <hotspot id="Point04" pan="-219.03" url="JK13On_t8UA" skinid="ht_video_youtube" tilt="-32.52" target="" title="Cağ Kebap Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Cağ Kebabı Üretim Yeri" description="">
+        <polystring>-140.05/-23.54|-127.42/-33.19|-125.67/-55.29|-255.35/-26.43|-256.24/-12.2|-246.53/-11.31</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Derin Dondurucu" description="">
+        <polystring>-287.36/10.95|-299.06/17.71|-301.52/17.38|-302.74/-47.67|-299.91/-47.51|-287.44/-32.81</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Bulaşık Alanı" description="">
+        <polystring>-50.3/21.52|-61.85/24.21|-61.82/-26.25|-50.18/-23.88</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="64.6275" pan="24.047" projection="4" tilt="-16.3611"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node14" datetime="22.10.2022 09:42" title="s12" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-356.39" url="{node7}" skinid="ht_node" tilt="-2.94" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-146.39" url="{node13}" skinid="ht_node" tilt="-2.1" target="" title="" description=""/>
+      <hotspot id="Point04" pan="338.24" url="1xZnumOiFm4" skinid="ht_video_youtube" tilt="-6.36" target="" title="Şırdan Üretimi" description=""/>
+      <hotspot id="Point05" pan="-317.84" url="ugUn0JdEEYs" skinid="ht_video_youtube" tilt="-3.53" target="" title="Çorba Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-324.6/8.42|-349.3/2.08|-356.88/1.84|-5.05/1.81|-5.09/-3.23|-356.95/-3|-349.03/-3.38|-322.6/-10.15|-324.24/8.49</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-310.31/7.5|-309.76/-7.46|-322.67/-10.29|-324.24/8.56</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Çorba Üretim Yeri" description="">
+        <polystring>-306.05/7.53|-30.31/7.72|-29.18/-15.77|-304.64/-10.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-281.68/10.4|-302.35/8.63|-301.84/-8.82|-281.09/-11.03</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-254.3/11.69|-268.1/11.32|-268.26/-11.11|-253.95/-12.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-227.93/9.64|-240.2/10.57|-240.15/-12.16|-228.12/-11.16</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-209.82/7.4|-217.72/8.33|-217.83/-10.34|-209.99/-8.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-198.63/5.75|-203.34/6.21|-203.58/-8.05|-198.95/-7.54</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly09" url="" target="_blank" title="Malzeme ALanı" description="">
+        <polystring>-26.47/-29.17|-83.75/-47.96|-83.34/-63.41|-26.39/-46.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly10" url="" target="_blank" title="Malzeme ALanı" description="">
+        <polystring>-180.35/-17.55|-215.87/-39.96|-216.05/-55.37|-181.4/-29.82</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="72.0613" pan="33.4276" projection="4" tilt="-20.7154"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node15" datetime="22.10.2022 09:50" title="S25" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-236.65" url="{node20}" skinid="ht_node" tilt="-3.74" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-171.95" url="{node13}" skinid="ht_node" tilt="9.02" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Bulaşık Yıkanma Alanı" description="">
+        <polystring>-304.97/-17.14|-287.79/-21.14|-288.4/-39.47|-355.58/-66.31|-359.75/-48.64|-359.35/-26.42</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Bulaşık Servis Penceresi" description="">
+        <polystring>-270/2.65|-270.23/-14.58|-291.43/-13.82|-290.82/2.62</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Temiz Kurutma Alanı" description="">
+        <polystring>-48.4/-58.79|-47.68/-40.99|-67.92/-24.25|-69.5/12.38|-100.98/12.52|-101.71/6.47|-106.94/5.79|-115.25/-39.59|-67.78/-40.66</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="62.6071" pan="-92.9169" projection="4" tilt="-41.0091"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node17" datetime="22.10.2022 09:55" title="S21" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-267.27" url="{node16}" skinid="ht_node" tilt="2.66" target="" title="" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="-107.469" projection="4" tilt="-26.2292"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node18" datetime="22.10.2022 09:56" title="s20" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-263.68" url="{node16}" skinid="ht_node" tilt="-1" target="" title="" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="91.3464" pan="143.24" projection="4" tilt="-24.9235"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node20" datetime="22.10.2022 09:59" title="s22" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-0.75" url="{node21}" skinid="ht_node" tilt="-2.97" target="" title="" description=""/>
+      <hotspot id="Point02" pan="-273.14" url="{node13}" skinid="ht_node" tilt="-0.64" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-147.38" url="{node19}" skinid="ht_node" tilt="5.55" target="" title="" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-83.63/1.57|-96.12/1.52|-95.89/-3.37|-85.35/-3.32|-85.38/-0.38|-83.55/-0.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Çay Demleme Alanıi" description="">
+        <polystring>-175.63/2.5|-228.99/2.44|-229.93/-16.29|-246.89/-19.2|-247.85/-36.47|-177.67/-65.88|-175.62/-45.79|-176.27/-32.32</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Personel Harici Girilmez" description="">
+        <polystring>-259.97/13.57|-285.92/13.75|-288.75/-37.45|-259.74/-39.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Çocuk Oyun Alanı" description="">
+        <polystring>-99.33/4.23|-101.45/4.68|-105.41/4.41|-105.47/-2.73|-101.01/-2.76|-99.35/-2.65</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Çay Malzeme Alanı" description="">
+        <polystring>-126.56/-12.3|-126.59/1.7|-121.96/7.38|-119.19/9.16|-116.49/8.92|-113.96/7.73|-111.76/4.87|-110.24/1.46|-109.79/-7.44</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0xffffff"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="106.335" pan="-14.4949" projection="4" tilt="-10.6404"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="sehzade_in" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node21" datetime="22.10.2022 10:01" title="S23" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0xffffff" backgroundcolor="0xff0000"/>
+      <hotspot id="Point01" pan="-67.9" url="{node20}" skinid="ht_node" tilt="1.93" target="" title="" description=""/>
+      <hotspot id="Point03" pan="-36.6" url="kv2_8ugEyWM" skinid="ht_video_youtube" tilt="-19.85" target="" title="Cağ Kebabı" description=""/>
+      <hotspot id="Point04" pan="-141.33" url="QQFcGtIvjWY" skinid="ht_video_youtube" tilt="-12.17" target="" title="Pide Üretimi" description=""/>
+      <hotspot id="Point05" pan="-328.19" url="O25AYsk6N_c" skinid="ht_video_youtube" tilt="-11.39" target="" title="Kebap Üretimi" description=""/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-185.57/5.24|-196.6/5.23|-196.9/1.85|-195.36/1.75|-195.84/-5.97|-185.46/-6.65</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-223.38/4.03|-236.18/3.69|-236.08/0.75|-235.74/-1.47|-235.29/-3.04|-223.4/-3.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="" target="_blank" title="Şehzade Restoran" description="">
+        <polystring>-260.75/3.84|-276.62/3.91|-276.83/-1.28|-260.62/-1.87</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="" target="_blank" title="Ocak Alanı" description="">
+        <polystring>-170.07/14.66|-170.31/-10.39|-211/-10.04|-217.54/-11.03|-220.85/-10.97|-309.74/-11.9|-308.28/26.82|-299.52/21.76|-223.42/15.99|-216.56/15.94|-210.98/14.1|-209.3/14.21</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="" target="_blank" title="Cağ Kebap Pişirme Yeri" description="">
+        <polystring>-14.48/27.43|-59.35/23.79|-55.6/-25.35|-65.69/-34.67|-64.9/-54.98|-9.69/-59.72|-11.81/-39.56|-14.64/-27.59</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="" target="_blank" title="Kebap Pişirme Yeri" description="">
+        <polystring>-308.85/15.65|-11.71/22.77|-9.21/-24.77|-10.6/-32.96|-9.39/-53.5|-304.86/-35.79|-305.57/-20.94|-309.97/-15.28</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="" target="_blank" title="Pide Pişirme Yeri" description="">
+        <polystring>-106.4/-0.69|-160.32/-1.76|-161.43/-14.37|-103.96/-30.36</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" pan="-189.760" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="846" hidepinned="0" popoutscaling="100" fov="23.720" popbackmode="0" tilt="2.400" handcursor="1" width="849" clickmode="1">
+        <source url="media/adana_urfa_konya.jpg"/>
+      </image>
+      <image id="Element02" pan="-234.680" rotx="-6.000" roty="28.000" rotz="0.000" stretch="1.000" height="835" hidepinned="0" popoutscaling="100" fov="23.060" popbackmode="0" tilt="2.680" handcursor="1" width="683" clickmode="1">
+        <source url="media/adana.jpg"/>
+      </image>
+      <image id="Element03" pan="-272.030" rotx="0.000" roty="0.000" rotz="0.000" stretch="1.000" height="847" hidepinned="0" popoutscaling="100" fov="30.000" popbackmode="0" tilt="4.440" handcursor="1" width="843" clickmode="1">
+        <source url="media/efsane_lezzetler.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="14"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" title="" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map id="secmap" index="0" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="Harita"/>
+</tour>
