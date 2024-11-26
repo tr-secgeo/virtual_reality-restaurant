@@ -1,7 +1,3 @@
-// Garden Gnome Software - Skin
-// Pano2VR 7.1.6/20966
-// Filename: restoran.ggsk
-// Generated 2024-11-23T15:50:59
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_3d_preview', 2, true, { ignoreInState: 1  });
